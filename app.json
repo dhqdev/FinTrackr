@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "FinTrackr",
+    "slug": "fintrackr",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./src/assets/icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#4CAF50"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.fintrackr.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./src/assets/icon.png",
+        "backgroundColor": "#4CAF50"
+      },
+      "package": "com.fintrackr.app"
+    },
+    "web": {
+      "favicon": "./src/assets/icon.png"
+    },
+    "plugins": [
+      [
+        "expo-notifications",
+        {
+          "icon": "./src/assets/icon.png",
+          "color": "#4CAF50"
+        }
+      ],
+      "expo-font"
+    ]
+  }
+}
