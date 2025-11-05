@@ -2,6 +2,12 @@
 
 Um aplicativo moderno e intuitivo de monitoramento financeiro pessoal, construído em React Native com Expo, que ajuda o usuário a controlar receitas, despesas, metas e gráficos de desempenho.
 
+![WhatsApp Image 2025-11-05 at 14 52 42 (1)](https://github.com/user-attachments/assets/cc8f7eee-7eae-44f7-ab79-309866570749)
+
+![WhatsApp Image 2025-11-05 at 14 52 42](https://github.com/user-attachments/assets/d5ecf62c-8999-4631-b894-1110c9e38035)
+
+![WhatsApp Image 2025-11-05 at 14 52 41](https://github.com/user-attachments/assets/32c7e41c-8af1-4637-b582-f64fc43f0d65)
+
 ## 🎯 Objetivo
 
 Criar um aplicativo móvel multiplataforma (Android e iOS) que permita ao usuário:
